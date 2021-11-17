@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oleg-sin
-- 👀 I’m interested in bicycles, drones, STM32, ESP32/ESP8266, Arduino
+- 👀 I’m interested in beer. bicycles, drones, STM32, ESP32/ESP8266, Arduino
 - 🌱 I’m currently learning FreeRTOS on STM32
 <!--- 
 - 💞️ I’m looking to collaborate on ...
