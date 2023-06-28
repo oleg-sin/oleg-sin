@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oleg-sin
+- 👋 Hi, I’m Oleg
 - 👀 I’m interested in beer. bicycles, drones, STM32, ESP32/ESP8266, Arduino
 - 🌱 I’m currently learning FreeRTOS on STM32
 <!--- 
